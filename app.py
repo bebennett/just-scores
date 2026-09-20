@@ -52,7 +52,7 @@ def home():
 
     <body>
 
-    <h1>JUST SCORES</h1>
+    <h1>JUST SCORES — LIVE FROM THE CLOUD</h1>
     <h2>College Football</h2>
     """
 
